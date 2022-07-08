@@ -1,1 +1,37 @@
 @import url(./_reset.css);
+
+.page-wrap {
+    min-height: 100vh;
+}
+
+
+.color {
+    padding: 20px;
+    width: 250px;
+    height: 250px;
+}
+
+.color1 {
+    background-color: #5587A2;
+}
+
+.color2 {
+    background-color: #EFCFC5;
+}
+
+.color3 {
+    background-color: #F6D358;
+}
+
+.color4 {
+    background-color: #88B24B;
+}
+
+.color5 {
+    background-color: #97D5E0;
+}
+
+.color6 {
+    background-color: #D12F76;
+}
+
