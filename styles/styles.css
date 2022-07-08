@@ -1,4 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap");
 @import url(./_reset.css);
+
+body {
+    font-family: "Poppins", sans-serif;
+}
 
 .page-wrap {
     min-height: 100vh;
@@ -38,7 +43,7 @@
     padding-left: 10px;
     margin-bottom: 10px;
     margin-left: 5px;
-    font-weight: lighter;
+    font-weight: 15px;
 }
 
 
